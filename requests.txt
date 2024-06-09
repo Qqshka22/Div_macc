@@ -1,0 +1,7 @@
+﻿"id","user_email","request_text","status","comment","created_at","updated_at"
+1,"fhfhfh@mail.ru","vert","Completed","privet",2024-06-08 10:11:46,2024-06-08 10:11:46
+2,"ff@mail.ru","fdghfjkdhg","Completed","privet",2024-06-08 14:39:31,2024-06-09 12:01:59
+4,"fhfhfh@mail.ru","vert","Pending","privet",2024-06-08 14:46:12,2024-06-08 17:46:40
+5,"fhfhfh@mail.ru","vert","Completed","privet",2024-06-08 14:46:29,2024-06-08 14:46:29
+6,"123456@mail.ru","von","Pending","poka",2024-06-08 17:57:15,2024-06-08 21:15:58
+7,"123456@mail.ru","von","Completed","poka",2024-06-08 17:57:36,2024-06-08 21:15:49
