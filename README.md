@@ -1,23 +1,25 @@
 # Тестовое задание .div масс проект
 
-## About
+## :computer: About
 
 Простое REST API для приёма и обработки заявок пользователей сайта.
 
-## How to work
+## :wave: How to work
 
-- **скачать все файлы проекта**
-- **развернуть файл бэкапа базы данных**
-- **запустить сервер**
-- **ввести в command line: php artisan serve**
+1. скачать все файлы проекта
+2. развернуть файл бэкапа базы данных по адресу
+   > (указать)
+4. запустить сервер
+5. ввести в командную строку
+   > php artisan serve
 
-## Instruments
+## :hammer_and_wrench: Instruments
 
-- **MySQL**
-- **Open Server Panel**
 - **Visual Studio Code**
+- **Open Server Panel**
 - **Postman**
+- **MySQL**
 
-## License
+## :page_with_curl: License
 
-No license.
+There is no license.
